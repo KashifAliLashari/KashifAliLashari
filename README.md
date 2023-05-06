@@ -1,6 +1,5 @@
 Welcome ✨
-<!--
-**KashifAliLashari/KashifAliLashari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 👋 Hi, this is @KashifAliLashari
 👀 I’m interested in Artificial Intellegence and Learning it in my graduate program. 
 🌱 I’m currently learning to use and integrate Artificial Intellegence where ever I want!
