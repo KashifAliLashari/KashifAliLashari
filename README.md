@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning projects and tasks**
 
-- 💬 Ask me about **Machine Learning, SEO, WordPress Development**
-
 - 📫 How to reach me **kashifalilashari136@gmail.com**
 
 - 📄 Know about my experiences [https://www.fiverr.com/expert_kashfi](https://www.fiverr.com/expert_kashfi)
