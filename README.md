@@ -1,19 +1,107 @@
-<h1 align="center">Hi 👋, I'm Kashif Ali</h1>
-<h3 align="center">Junior Data Analyst & Data Science Enthuasist from Pakistan</h3>
+# Hi there, I'm Kashif Ali 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifalilashari&label=Profile%20views&color=0e75b6&style=flat" alt="kashifalilashari" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Developer+%26+Data+Analyst;Full+Stack+Developer;AI+Automation+Specialist;Chatbot+%26+AI+Agent+Builder" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on **Data Science and AI Chabot Projects**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kashifalilashari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kashifalilashari?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
-- 🌱 I’m currently learning **Gen AI**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Chatbot Development**
+I'm a passionate **AI Developer** and **Data Analyst** who specializes in building intelligent solutions that bridge the gap between data and automation. I believe in the transformative power of AI and am dedicated to creating innovative applications that solve real-world problems.
 
-- 📫 How to reach me **jobs.kashifali@gmail.com**
+- 🤖 **AI Agent Developer** - Building intelligent agents that can reason, learn, and act autonomously
+- ⚡ **AI Automation Specialist** - Creating smart workflows and automated systems
+- 🌐 **Full Stack Developer** - Crafting end-to-end web applications with modern technologies
+- 💬 **Chatbot Architect** - Designing conversational AI systems for enhanced user experiences
+- 📊 **Data Science Enthusiast** - Turning data into actionable insights
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kashif-ali-lashari]
+## 🔥 Current Focus
 
-- ⚡ Fun fact **I think I'm made for AI**
+```typescript
+const kashif = {
+    currentlyWorkingOn: ["AI Agents", "Generative AI Projects", "Smart Automation"],
+    learning: ["Generative AI", "Advanced ML Techniques", "AI Agent Frameworks"],
+    collaborateOn: ["AI Agent Development", "Chatbot Solutions", "Full Stack AI Apps"],
+    askMeAbout: ["AI Automation", "Data Analysis", "Full Stack Development", "AI Agents"],
+    funFact: "I think I'm made for AI 🤖"
+};
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashifalilashari&" alt="kashifalilashari" /></p>
+## 🛠️ Tech Stack
 
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+### Full Stack Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashifalilashari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifalilashari&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashifalilashari&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🏆 Featured Projects
+
+### 🤖 AI Agent Portfolio
+- **Intelligent Task Automation** - Multi-agent systems for complex workflow automation
+- **Conversational AI Assistants** - Advanced chatbots with natural language understanding
+- **Data Analysis Agents** - AI-powered analytics and reporting systems
+
+### 🌐 Full Stack Applications
+- **AI-Powered Web Apps** - Modern web applications integrated with AI capabilities
+- **Real-time Data Dashboards** - Interactive analytics platforms
+- **Automation Tools** - Custom solutions for business process optimization
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="mailto:jobs.kashifali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/kashif-ali-lashari">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/kashifalilashari">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <b>⭐ If you find my work interesting, feel free to star my repositories! ⭐</b>
+</div>
