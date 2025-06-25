@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI Developer** and **Data Analyst** who specializes in building intelligent solutions that bridge the gap between data and automation. I believe in the transformative power of AI and am dedicated to creating innovative applications that solve real-world problems.
+I'm a passionate **Web and Agentic AI Developer** and **Data Analyst** who specializes in building intelligent solutions that bridge the gap between data and automation. I believe in the transformative power of AI and am dedicated to creating innovative applications that solve real-world problems.
 
 - 🤖 **AI Agent Developer** - Building intelligent agents that can reason, learn, and act autonomously
 - ⚡ **AI Automation Specialist** - Creating smart workflows and automated systems
@@ -81,27 +81,3 @@ const kashif = {
 - **AI-Powered Web Apps** - Modern web applications integrated with AI capabilities
 - **Real-time Data Dashboards** - Interactive analytics platforms
 - **Automation Tools** - Custom solutions for business process optimization
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="mailto:jobs.kashifali@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/kashif-ali-lashari">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/kashifalilashari">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <b>⭐ If you find my work interesting, feel free to star my repositories! ⭐</b>
-</div>
