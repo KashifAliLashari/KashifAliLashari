@@ -13,12 +13,6 @@
 
 I'm a passionate **Web and Agentic AI Developer** and **Data Analyst** who specializes in building intelligent solutions that bridge the gap between data and automation. I believe in the transformative power of AI and am dedicated to creating innovative applications that solve real-world problems.
 
-- 🤖 **AI Agent Developer** - Building intelligent agents that can reason, learn, and act autonomously
-- ⚡ **AI Automation Specialist** - Creating smart workflows and automated systems
-- 🌐 **Full Stack Developer** - Crafting end-to-end web applications with modern technologies
-- 💬 **Chatbot Architect** - Designing conversational AI systems for enhanced user experiences
-- 📊 **Data Science Enthusiast** - Turning data into actionable insights
-
 ## 🔥 Current Focus
 
 ```typescript
@@ -69,8 +63,6 @@ const kashif = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashifalilashari&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
-## 🏆 Featured Projects
 
 ### 🤖 AI Agent Portfolio
 - **Intelligent Task Automation** - Multi-agent systems for complex workflow automation
