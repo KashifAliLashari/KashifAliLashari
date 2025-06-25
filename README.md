@@ -63,13 +63,3 @@ const kashif = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashifalilashari&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
-### 🤖 AI Agent Portfolio
-- **Intelligent Task Automation** - Multi-agent systems for complex workflow automation
-- **Conversational AI Assistants** - Advanced chatbots with natural language understanding
-- **Data Analysis Agents** - AI-powered analytics and reporting systems
-
-### 🌐 Full Stack Applications
-- **AI-Powered Web Apps** - Modern web applications integrated with AI capabilities
-- **Real-time Data Dashboards** - Interactive analytics platforms
-- **Automation Tools** - Custom solutions for business process optimization
