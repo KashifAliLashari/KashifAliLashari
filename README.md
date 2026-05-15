@@ -38,20 +38,22 @@ kashif = {
 
 ### 📜 Certs (I like to collect them, apparently)
 
-- 🧠 Intro to Large Language Models — *Google*
-- ✨ Introduction to Generative AI — *Google*
-- 🔍 Analyze Sentiment with NLP API — *Google*
-- ☁️ Google Cloud Fundamentals — *Google*
-- 🐍 Machine Learning with Python — *Coursera*
-- 📊 Intro to Data Science — *Cisco*
+- 🧠 [Intro to Large Language Models](https://www.skills.google/public_profiles/bd5285a8-43d9-4df2-a256-a95398a85252/badges/9330379) — *Google*
+- ✨ [Introduction to Generative AI](https://www.skills.google/public_profiles/bd5285a8-43d9-4df2-a256-a95398a85252/badges/7073726) — *Google*
+- 🔍 [Analyze Sentiment with NLP API](https://www.skills.google/public_profiles/bd5285a8-43d9-4df2-a256-a95398a85252/badges/14078457) — *Google*
+- ☁️ [Google Cloud Fundamentals](https://www.skills.google/public_profiles/bd5285a8-43d9-4df2-a256-a95398a85252/badges/7858893) — *Google*
+- 🐍 [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/S2EKS43P2VRF) — *Coursera*
+- 📊 [Intro to Data Science](https://www.credly.com/badges/f6138a12-41ce-4b3b-b4bb-3feb63179e5d/linked_in_profile) — *Cisco*
+- 📘 [Understanding Data Science](https://www.datacamp.com/completed/statement-of-accomplishment/course/3c97a5b9624b59357b488ef935897eb28360d406) — *DataCamp*
+- 🐍 [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/30c66c062aa76239990d5f96fc8f602c5cfb3fec) — *DataCamp*
 - 🤖 Elements of AI — *University of Helsinki*
-- 📈 Advanced Digital Skills in Data Science — *UNDP Pakistan*
+- 📈 Advance Digital Skills in Data Science — *UNDP Pakistan*
 
 ---
 
 ### 📬 Let's Connect
 
-[linkedin](https://linkedin.com/in/kashif-ali-lashari)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashif-ali-lashari)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jobs.kashifali@gmail.com)
 
 ---
