@@ -6,8 +6,8 @@
 ```python
 kashif = {
     "location": "Sindh, Pakistan 🇵🇰",
-    "currently": "Applying to every internship known to mankind",
-    "obsessed_with": ["AI", "LLMs", "why my code breaks at 2am"],
+    "currently": "Web & Cloud Developer Working remotely 🏡",
+    "obsessed_with": ["AI", "LLMs", "why my code breaks at 2 am"],
     "fun_fact": "I built an AI that sounds more human than I do"
 }
 ```
